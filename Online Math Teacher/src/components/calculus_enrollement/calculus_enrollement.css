@@ -1,0 +1,64 @@
+.header{
+    background: linear-gradient(to right, #636363, #a2ab58); 
+    text-align: center;
+    height: 300px;
+    padding-top: 80px;
+    color: white;
+}
+.enrollement_button{
+    font-size: 1.5rem;
+    border: 3px solid #3498db;
+    background: #3498db;
+    color: black;
+    border-radius: 20px;
+    font-family: monsterrat;
+    cursor: pointer;
+}
+.enrollement_button:hover{
+    color: #fff;
+    border-color: black;
+}
+
+.lines{
+    text-align: justify;
+    padding-top: 70px;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 70px;
+    background-color: #fff;   
+}
+.points{
+    text-align: left;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.card:hover{
+    color: white;
+    background: linear-gradient(to right, #636363, #a2ab58);
+}
+.learn{
+    padding-top: 70px;
+    padding-left: 600px;
+    padding-bottom: 70px;
+    background-color:beige; 
+    
+}
+.instructor{
+    display: flex;
+}
+.info{
+    background: linear-gradient(to right, #636363, #a2ab58);
+    color: white;
+}
+.guarantee{
+    text-align: center;
+    background-color: #fff;
+    padding-top: 70px;
+}
+.guarantee p{
+    padding-left:  300px;
+    padding-right: 300px;
+    font-size: 20px;
+}
+
